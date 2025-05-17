@@ -1,7 +1,7 @@
 '''
-author: Brian Mukeswe
-date: April 30, 2022
-contact: mukeswebrian@yahoo.com
+author: Clinton Ukachukwu
+date: November 30, 2024
+contact: clintuka@gmail.com
 '''
 
 # import libraries
