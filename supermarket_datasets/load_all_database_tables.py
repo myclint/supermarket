@@ -1,7 +1,7 @@
 '''
-author: Brian Mukeswe
-date: July 24, 2021
-contact: mukeswebrian@yahoo.com
+author: Clinton Ukachukwu
+date: January 15, 2025
+contact: clintuka@gmail.com\
 '''
 
 import pandas as pd
