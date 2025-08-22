@@ -1,6 +1,6 @@
 '''
 author: Clinton Ukachukwu
-date: March 31, 2024
+date: November 30, 2024
 contact: clintuka@gmail.com
 '''
 
@@ -19,7 +19,7 @@ def fetchData():
         'host': 'da-class-db.cxcjjheb3bem.us-east-1.rds.amazonaws.com',
         'port': '3306',
         'database': 'supermarket',
-        'username': 'sycamore_student',
+        'username': 'special_student',
         'password': open('password.txt','r').read()
         }
 
