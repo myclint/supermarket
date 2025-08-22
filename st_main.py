@@ -1,7 +1,7 @@
 '''
-author: Brian Mukeswe
-date: April 30, 2022
-contact: mukeswebrian@yahoo.com
+author: Clinton Ukachukwu
+date: March 31, 2024
+contact: clintuka@gmail.com
 '''
 
 # import libraries
@@ -19,7 +19,7 @@ def fetchData():
         'host': 'da-class-db.cxcjjheb3bem.us-east-1.rds.amazonaws.com',
         'port': '3306',
         'database': 'supermarket',
-        'username': 'hibreed_student',
+        'username': 'sycamore_student',
         'password': open('password.txt','r').read()
         }
 
